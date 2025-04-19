@@ -4,6 +4,7 @@
 
 
 ## 쿼리 과제 답안
+₩₩₩
 -- 요청 코드
 INSERT INTO request_code VALUES ('L001', '일반 로그인');
 INSERT INTO request_code VALUES ('L002', 'OTP 로그인');
@@ -97,3 +98,5 @@ GROUP BY
     ds.dt
 ORDER BY
     ds.dt;
+
+₩₩₩
